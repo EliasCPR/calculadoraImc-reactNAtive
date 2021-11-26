@@ -1,0 +1,35 @@
+componentes basicos do reactnative
+
+view:
+    - é o container principal do reactnative
+    - é o elemento mais importante do reactnative
+    - é o elemento que contem todos os outros elementos
+
+Image:
+    - é um componente que mostra uma imagem
+    - pode ser usado para mostrar imagens de fundo
+    - pode ser usado para mostrar imagens de icones
+    - é um elemento que representa uma imagem
+    - é um componente
+    - é um elemento do reactnative
+
+scrollview:
+    - é semelhante ao scrollview do kotlin
+
+text:
+    - é um componente que mostra da pra inserir texto
+
+textinput
+    - é um componente que mostra um input de texto
+
+stylesheet:
+    - é um arquivo que define as estilos do app
+
+
+componentes de interface do usuario 
+
+    button:
+        - é um componente que mostra um botão
+
+    switch:
+        - é um componente que mostra um botão toglle
